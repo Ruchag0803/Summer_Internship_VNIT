@@ -18,6 +18,7 @@ Several machine learning models were used for this project, including:
 - You Only Look Once (YOLO)
 - Naive Bayes (NV)
 - Logistic Regression
+- Random Forest 
 
 ### Training and Testing Accuracy
 
@@ -59,18 +60,21 @@ Naive Bayes is a simple technique for constructing classifiers: models that assi
 
 Logistic Regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable, although many more complex extensions exist.
 
+### Random Forest
+Random Forest is an ensemble learning method that operates by constructing multiple decision trees during training and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees. It is known for its robustness and high accuracy.
+
 ## Results
 
 The following images showcase the results of the models:
 
 1. **Result of YOLO**:
-   ![image](https://github.com/user-attachments/assets/07aa9358-ca4f-48c1-8198-476706847164)
+   ![image](https://github.com/user-attachments/assets/07aa9358-ca4f-48c1-8198-476706847164)<!-- .element height="500" width="500" -->
 
 2. **Result of All Models**:
-  ![image](https://github.com/user-attachments/assets/118ba5ba-c6cc-4e37-90b7-683eb76173e0)
+  ![image](https://github.com/user-attachments/assets/118ba5ba-c6cc-4e37-90b7-683eb76173e0)<!-- .element height="500" width="500" -->
 
 3. **Grouping the Confidence Score into Categories**:
-  ![image](https://github.com/user-attachments/assets/f8400b94-887e-434a-a72d-f0b84af03a74)
+  ![image](https://github.com/user-attachments/assets/f8400b94-887e-434a-a72d-f0b84af03a74)<!-- .element height="500" width="500" -->
 
 ## Conclusion
 
