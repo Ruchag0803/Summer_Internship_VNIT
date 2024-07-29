@@ -71,10 +71,11 @@ The following images showcase the results of the models:
    ![image](https://github.com/user-attachments/assets/07aa9358-ca4f-48c1-8198-476706847164)<!-- .element height="500" width="500" -->
 
 2. **Result of All Models**:
-  ![image](https://github.com/user-attachments/assets/118ba5ba-c6cc-4e37-90b7-683eb76173e0)<!-- .element height="500" width="500" -->
+   ![image](https://github.com/user-attachments/assets/118ba5ba-c6cc-4e37-90b7-683eb76173e0)<!-- .element height="500" width="500" -->
 
 3. **Grouping the Confidence Score into Categories**:
-  ![image](https://github.com/user-attachments/assets/f8400b94-887e-434a-a72d-f0b84af03a74)<!-- .element height="500" width="500" -->
+   ![image](https://github.com/user-attachments/assets/f8400b94-887e-434a-a72d-f0b84af03a74)<!-- .element height="500" width="500" -->
+   
 
 ## Conclusion
 
